@@ -1,0 +1,34 @@
+#common ingore
+.tmp
+.project
+.settings
+log
+logs
+target
+test-output
+.classpath
+*.tmp
+nbproject
+.svn
+.idea
+*.ipr
+*.iml
+*.orig
+*.csv
+*.log
+*-log
+*.iws
+node_modules
+.DS_Store
+*.out
+
+#java specific
+*.class
+*.jar
+*.war
+*.ear
+
+.hgignore
+
+
+
