@@ -1,0 +1,3 @@
+vboxmanage dhcpserver add --netname b4n-lan --ip 10.10.10.1 --netmask 255.255.255.0 --lowerip 10.10.10.2 --upperip 10.10.10.200
+
+vboxmanage dhcpserver add --netname infanet --ip 10.10.20.1 --netmask 255.255.255.0--lowerip 10.10.20.2 --upperip 10.10.20.200
