@@ -31,7 +31,7 @@ apt -y install golang-golang-x-tools
 
 #terminal emulators
 apt -y install terminator
-apt -y install terminix
+apt -y install tilix
 #apt install tilda
 apt -y install guake
 
