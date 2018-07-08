@@ -1,3 +1,3 @@
 #!/bin/bash
-sdk flush arhcives
+sdk flush archives
 sdk flush temp
