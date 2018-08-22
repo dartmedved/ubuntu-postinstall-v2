@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo snap install micro
+sudo snap install micro --classic
