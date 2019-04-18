@@ -1,2 +1,2 @@
 #!/bin/bash
-adduser yourusername vboxsf
+sudo adduser $USER vboxsf
