@@ -1,2 +1,2 @@
-sudo add-apt-repository ppa:oguzhaninan/stacer
-sudo apt update
+sudo add-apt-repository ppa:oguzhaninan/stacer -y
+sudo apt-get update
