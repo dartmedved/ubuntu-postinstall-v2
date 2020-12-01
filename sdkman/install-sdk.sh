@@ -5,4 +5,5 @@ sdk install maven
 sdk install groovy 
 sdk install gradle 
 sdk install kotlin
+sdk install visualvm
 sdk upgrade
