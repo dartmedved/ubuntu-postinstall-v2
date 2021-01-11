@@ -1,2 +1,2 @@
 #!/bin/bash 
-apt install pmount 
+sudo apt install pmount 

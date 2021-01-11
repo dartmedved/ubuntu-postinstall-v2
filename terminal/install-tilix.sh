@@ -1,2 +1,2 @@
 #!/bin/bash
-apt -y install tilix
+sudo apt -y install tilix

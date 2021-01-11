@@ -1,1 +1,1 @@
-apt-get install gawk m4 libglib2.0-dev libwxgtk3.0-dev cmake g++
+sudo apt-get install gawk m4 libglib2.0-dev cmake g++

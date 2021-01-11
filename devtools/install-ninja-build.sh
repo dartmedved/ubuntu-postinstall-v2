@@ -1,1 +1,1 @@
-apt -y install ninja-build
+sudo apt -y install ninja-build
