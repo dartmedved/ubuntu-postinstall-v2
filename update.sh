@@ -1,4 +1,4 @@
 #!/bin/bash
 sudo apt update 
-sudo apt -y upgrade 
-sudo apt -y autoremove  
+sudo apt upgrade -y
+sudo apt autoremove -y   
