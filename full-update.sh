@@ -1,4 +1,6 @@
 #!/bin/bash
+echo ----[project update]------------------------------------------------------
+git pull
 echo ----[sdk update]----------------------------------------------------------
 source ~/.sdkman/bin/sdkman-init.sh 
 sdk ug
