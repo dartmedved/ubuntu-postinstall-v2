@@ -32,10 +32,9 @@ apt -y install golang-golang-x-tools
 #terminal emulators
 apt -y install terminator
 apt -y install tilix
-#apt install tilda
 apt -y install guake
+apt -y install kitty
 
-apt -y install atom
 apt -y install code code-insiders
 apt -y install git-svn
 apt -y install tig
