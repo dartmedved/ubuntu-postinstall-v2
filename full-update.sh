@@ -6,6 +6,7 @@ sudo ./update.sh
 echo ----[sdk update]----------------------------------------------------------
 source ~/.sdkman/bin/sdkman-init.sh 
 sdk ug
+sdk flush tmp
 echo ----[rust update]---------------------------------------------------------
 rustup update
 echo ----[npm update]----------------------------------------------------------
