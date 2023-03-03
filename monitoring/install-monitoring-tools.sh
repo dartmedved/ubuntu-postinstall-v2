@@ -7,6 +7,7 @@ sudo apt -y install dstat
 sudo apt -y install nmon
 sudo apt -y install ncdu
 sudo apt -y install slurm
+sudo apt -y install btop
 
 #findmnt
 #w
