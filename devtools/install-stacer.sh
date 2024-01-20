@@ -1,1 +1,1 @@
-sudo apt install stacer
+sudo apt install -y stacer

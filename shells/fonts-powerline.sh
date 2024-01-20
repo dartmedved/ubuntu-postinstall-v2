@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo apt install fonts-powerline
+sudo apt install -y  fonts-powerline

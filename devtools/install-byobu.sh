@@ -1,2 +1,2 @@
 #!/bin/bash 
-apt install byobu
+sudo apt install -y  byobu

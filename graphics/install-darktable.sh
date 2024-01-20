@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo apt-get install darktable
+sudo apt install -y  darktable
