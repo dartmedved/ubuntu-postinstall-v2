@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo snap install starship
+curl -sS https://starship.rs/install.sh | sh
