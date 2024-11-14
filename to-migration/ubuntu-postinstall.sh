@@ -8,11 +8,11 @@ apt -y install python3 python3-all python3-all-dev
 apt -y install unzip unrar 
 apt -y install ruby ruby-dev
 apt -y install openssh-server
-apt -y install openjdk-11-jdk
+#apt -y install openjdk-11-jdk
 apt -y install ffmpeg
 apt -y install gstreamer1.0-tools
 apt -y install yt-dlp
-apt -y install mplayer2
+#apt -y install mplayer2
 apt -y install mpv
 #apt -y install libzen0v5
 #apt -y install libmediainfo0v5
@@ -39,8 +39,8 @@ apt -y install tilix
 apt -y install guake
 apt -y install kitty
 
-apt -y install code code-insiders
-apt -y install git-svn
+#apt -y install code code-insiders
+#apt -y install git-svn
 apt -y install tig
 
 #dlna server specific
