@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo apt remove gitkraken
+sudo apt remove -y gitkraken

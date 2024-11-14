@@ -1,1 +1,1 @@
-sudo apt-get install gawk m4 libglib2.0-dev cmake g++
+sudo apt-get install -y gawk m4 libglib2.0-dev cmake g++ build-essential
