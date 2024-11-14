@@ -47,4 +47,4 @@ apt -y install tig
 #apt -y install transmission-cli transmission-common transmission-daemon
 
 #cleanup 
-apt -y autoremove
+apt autoremove -y
