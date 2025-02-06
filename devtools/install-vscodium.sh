@@ -1,4 +1,4 @@
 #!/bin/sh
 
-snap install codium --classic
+sudo snap install codium --classic
 
