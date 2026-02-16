@@ -9,6 +9,7 @@ source ~/.sdkman/bin/sdkman-init.sh
 #sdk update
 #sdk ug
 #sdk flush tmp
+sdk offline enable
 echo ----[rust update]---------------------------------------------------------
 rustup update
 echo ----[npm update]----------------------------------------------------------
