@@ -5,10 +5,10 @@ echo ----[linux update]--------------------------------------------------------
 sudo ./update.sh
 echo ----[sdk update]----------------------------------------------------------
 source ~/.sdkman/bin/sdkman-init.sh 
-sdk offline disable
-sdk update
-sdk ug
-sdk flush tmp
+#sdk offline disable
+#sdk update
+#sdk ug
+#sdk flush tmp
 echo ----[rust update]---------------------------------------------------------
 rustup update
 echo ----[npm update]----------------------------------------------------------
